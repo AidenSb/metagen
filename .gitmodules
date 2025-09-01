@@ -1,3 +1,4 @@
 [submodule "tabasco"]
 	path = tabasco
 	url = https://github.com/carlosinator/tabasco.git
+	ignore = untracked
