@@ -1,0 +1,7 @@
+nohup: ignoring input
+/home/aidens/.local/lib/python3.12/site-packages/huggingface_hub/file_download.py:1212: UserWarning: `local_dir_use_symlinks` parameter is deprecated and will be ignored. The process to download files to a local folder has been updated and do not rely on symlinks anymore. You only need to pass a destination folder as`local_dir`.
+For more details, check out https://huggingface.co/docs/huggingface_hub/main/en/guides/download#download-files-to-local-folder.
+  warnings.warn(
+Fetching 4 files:   0%|          | 0/4 [00:00<?, ?it/s]Fetching 4 files:  25%|██▌       | 1/4 [00:00<00:00,  8.20it/s]Fetching 4 files:  50%|█████     | 2/4 [00:03<00:03,  1.95s/it]Fetching 4 files:  75%|███████▌  | 3/4 [00:26<00:11, 11.55s/it]Fetching 4 files: 100%|██████████| 4/4 [00:26<00:00,  6.58s/it]
+Fetching 4 files:   0%|          | 0/4 [00:00<?, ?it/s]Fetching 4 files:  25%|██▌       | 1/4 [00:00<00:00,  9.30it/s]Fetching 4 files:  50%|█████     | 2/4 [00:00<00:00,  4.08it/s]Fetching 4 files:  75%|███████▌  | 3/4 [00:01<00:00,  2.49it/s]Fetching 4 files: 100%|██████████| 4/4 [00:01<00:00,  3.86it/s]
+done
